@@ -1,0 +1,9 @@
+<properties>
+
+    <!-- 获取vem_order_index记录数 -->
+    <property name="getListNum">
+        <![CDATA[
+          {"query": "SELECT count(*) FROM kibana_sample_data_logs "}
+        ]]>
+    </property>
+</properties>
