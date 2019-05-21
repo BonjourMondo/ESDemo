@@ -1,0 +1,11 @@
+<properties>
+    <!-- 经纬度查询网点 -->
+    <property name="searchList">
+        <![CDATA[
+        {
+			  "from": #[from],
+			  "size": #[size]
+			 }
+		]]>
+    </property>
+</properties>
